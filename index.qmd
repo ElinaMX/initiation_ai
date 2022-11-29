@@ -1,0 +1,74 @@
+---
+title: "Initiation à Adobe Illustrator"
+# subtitle: "Collège International des Sciences du Territoire"
+author:
+  - name: "Elina Marveaux - 2022"
+    affiliations: "FR2007 - Collège International des Sciences du Territoire"
+format:
+  revealjs: 
+    slide-number: true
+    theme: [solarized, custom.scss]
+    css: style.css
+chalkboard: 
+  buttons: false
+preview-links: auto
+logo: figures/logo/logos3.jpg
+# css: styles.css
+# footer: <https://quarto.org>
+# resources:
+  # - demo.pdf
+---
+
+# L'edition d'image
+
+## Les formats
+
+Quand on parle d'image on parle de deux type qui se rapprochent de ce que l'on connait en géographie :
+
+::: columns
+::: {.column width="45%"}
+**RASTER/PIXELS**
+
+*Photoshop* / *Gimp*
+
+On manipule les pixels/opérations sur les carreaux
+
+
+\
+*Formats :* `.jpg` - `.png` - `.gif`
+:::
+
+::: {.column width="45%"}
+**VECTORIEL**
+
+*Illustrator* / *Inkscape*
+
+Basé sur des opérations mathématiques : redimensionneemnt à l'infini en gardant la qualité
+
+*Formats :* `.svg` - `.ai` - `.eps`
+:::
+:::
+
+Le *Portable Document Format* ou `.pdf` n'est pas un format vectoriel en soit. Il s'agit d'un format composite :
+
+::: {.med}
+> "L'avantage du format PDF est qu'il préserve les polices de caractères, les images, les objets graphiques et la mise en forme de tout document source, quelles que soient l'application et la plate-forme utilisées pour le lire"\  
+:::
+
+Il est, en outre, interactif (signature, remplissage, copié/collé).
+
+::: {.big}
+Finalement il **encapsule** la description complete d'un document avec : - mise en page - texte et polices - images vectorielles/raster - autres informations
+
+:::
+
+
+# La suite Adobe
+
+## Illustrator
+
+## Photoshop
+
+## InDesign
+
+-   InDesign : mise ne page d'un document rédigé
